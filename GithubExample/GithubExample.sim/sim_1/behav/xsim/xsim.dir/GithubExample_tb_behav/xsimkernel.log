@@ -1,0 +1,4 @@
+Running: xsim.dir/GithubExample_tb_behav/xsimk.exe -simmode gui -wdb GithubExample_tb_behav.wdb -simrunnum 0 -socket 62850
+Design successfully loaded
+Design Loading Memory Usage: 5916 KB (Peak: 5916 KB)
+Design Loading CPU Usage: 0 ms

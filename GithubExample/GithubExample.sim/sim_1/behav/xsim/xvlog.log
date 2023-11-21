@@ -4,5 +4,3 @@ INFO: [VRFC 10-311] analyzing module T_FF
 INFO: [VRFC 10-311] analyzing module D_FF
 INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Coding/Verilog/Lab/GithubExample/GithubExample.srcs/sim_1/new/GithubExample_tb.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module GithubExample_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Coding/Verilog/Lab/GithubExample/GithubExample.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

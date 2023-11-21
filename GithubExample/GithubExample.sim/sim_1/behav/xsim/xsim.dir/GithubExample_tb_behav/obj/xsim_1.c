@@ -44,23 +44,23 @@
 #endif
 typedef void (*funcp)(char *, char *);
 extern int main(int, char**);
-extern void execute_15(char*, char *);
-extern void execute_16(char*, char *);
-extern void execute_29(char*, char *);
-extern void execute_30(char*, char *);
-extern void execute_21(char*, char *);
-extern void execute_22(char*, char *);
-extern void execute_5(char*, char *);
-extern void execute_18(char*, char *);
-extern void execute_19(char*, char *);
-extern void execute_20(char*, char *);
-extern void execute_31(char*, char *);
-extern void execute_32(char*, char *);
+extern void execute_27(char*, char *);
+extern void execute_28(char*, char *);
+extern void execute_49(char*, char *);
+extern void execute_50(char*, char *);
 extern void execute_33(char*, char *);
 extern void execute_34(char*, char *);
-extern void execute_35(char*, char *);
+extern void execute_5(char*, char *);
+extern void execute_30(char*, char *);
+extern void execute_31(char*, char *);
+extern void execute_32(char*, char *);
+extern void execute_51(char*, char *);
+extern void execute_52(char*, char *);
+extern void execute_53(char*, char *);
+extern void execute_54(char*, char *);
+extern void execute_55(char*, char *);
 extern void vlog_transfunc_eventcallback(char*, char*, unsigned, unsigned, unsigned, char *);
-funcp funcTab[16] = {(funcp)execute_15, (funcp)execute_16, (funcp)execute_29, (funcp)execute_30, (funcp)execute_21, (funcp)execute_22, (funcp)execute_5, (funcp)execute_18, (funcp)execute_19, (funcp)execute_20, (funcp)execute_31, (funcp)execute_32, (funcp)execute_33, (funcp)execute_34, (funcp)execute_35, (funcp)vlog_transfunc_eventcallback};
+funcp funcTab[16] = {(funcp)execute_27, (funcp)execute_28, (funcp)execute_49, (funcp)execute_50, (funcp)execute_33, (funcp)execute_34, (funcp)execute_5, (funcp)execute_30, (funcp)execute_31, (funcp)execute_32, (funcp)execute_51, (funcp)execute_52, (funcp)execute_53, (funcp)execute_54, (funcp)execute_55, (funcp)vlog_transfunc_eventcallback};
 const int NumRelocateId= 16;
 
 void relocate(char *dp)

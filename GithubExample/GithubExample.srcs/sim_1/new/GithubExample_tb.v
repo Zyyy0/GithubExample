@@ -3,7 +3,7 @@
 
 module GithubExample_tb;
 	reg clk, reset;
-	wire [3:0] q;
+	wire [7:0] q;
 	GithubExample UUT(
 		.clk(clk),
 		.reset(reset),

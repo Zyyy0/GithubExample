@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Coding/Verilog/Lab/Final1/Final1.srcs/sources_1/new/Final1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Final1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Coding/Verilog/Lab/Final1/Final1.srcs/sim_1/new/Final1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Final1_tb
